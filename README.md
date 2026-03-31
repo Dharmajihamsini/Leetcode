@@ -21,6 +21,7 @@ leetcode
 | [0135-candy](https://github.com/Dharmajihamsini/Leetcode/tree/main/0135-candy/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dharmajihamsini/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dharmajihamsini/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ leetcode
 | [1980-find-unique-binary-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dharmajihamsini/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,8 @@ leetcode
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dharmajihamsini/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dharmajihamsini/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
