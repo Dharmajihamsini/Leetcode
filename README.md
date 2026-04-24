@@ -30,6 +30,7 @@ leetcode
 | [0131-palindrome-partitioning](https://github.com/Dharmajihamsini/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2833-furthest-point-from-origin](https://github.com/Dharmajihamsini/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dharmajihamsini/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
@@ -120,4 +121,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/Dharmajihamsini/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
