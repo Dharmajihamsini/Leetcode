@@ -12,6 +12,7 @@ leetcode
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dharmajihamsini/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dharmajihamsini/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dharmajihamsini/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dharmajihamsini/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -125,4 +126,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Dharmajihamsini/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
