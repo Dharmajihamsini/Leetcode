@@ -9,6 +9,7 @@ leetcode
 | [0001-two-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Dharmajihamsini/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Dharmajihamsini/Leetcode/tree/main/0135-candy/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dharmajihamsini/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dharmajihamsini/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dharmajihamsini/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -92,6 +93,7 @@ leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dharmajihamsini/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Graph Theory
