@@ -12,6 +12,7 @@ leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dharmajihamsini/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Dharmajihamsini/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dharmajihamsini/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dharmajihamsini/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dharmajihamsini/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -58,6 +59,7 @@ leetcode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Dharmajihamsini/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1345-jump-game-iv](https://github.com/Dharmajihamsini/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dharmajihamsini/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Dharmajihamsini/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -82,6 +84,7 @@ leetcode
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharmajihamsini/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Dharmajihamsini/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
