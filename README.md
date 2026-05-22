@@ -7,6 +7,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Dharmajihamsini/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Dharmajihamsini/Leetcode/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -104,6 +105,7 @@ leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dharmajihamsini/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/Dharmajihamsini/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
