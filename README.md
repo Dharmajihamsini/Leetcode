@@ -13,6 +13,7 @@ leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dharmajihamsini/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Dharmajihamsini/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dharmajihamsini/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dharmajihamsini/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -50,6 +51,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Dharmajihamsini/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1340-jump-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dharmajihamsini/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -127,6 +129,7 @@ leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dharmajihamsini/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dharmajihamsini/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dharmajihamsini/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
