@@ -42,6 +42,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Dharmajihamsini/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1871-jump-game-vii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Dharmajihamsini/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -52,6 +53,7 @@ leetcode
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Dharmajihamsini/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1340-jump-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dharmajihamsini/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -101,6 +103,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dharmajihamsini/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dharmajihamsini/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dharmajihamsini/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dharmajihamsini/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -168,4 +171,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dharmajihamsini/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
