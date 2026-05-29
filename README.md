@@ -29,6 +29,7 @@ leetcode
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dharmajihamsini/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dharmajihamsini/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dharmajihamsini/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
