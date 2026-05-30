@@ -28,6 +28,7 @@ leetcode
 | [2784-check-if-array-is-good](https://github.com/Dharmajihamsini/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dharmajihamsini/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dharmajihamsini/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -120,6 +121,7 @@ leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmajihamsini/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dharmajihamsini/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/Dharmajihamsini/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dharmajihamsini/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Graph Theory
@@ -185,4 +187,12 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
