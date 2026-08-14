@@ -53,6 +53,7 @@ leetcode
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Dharmajihamsini/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dharmajihamsini/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharmajihamsini/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmajihamsini/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -83,6 +84,7 @@ leetcode
 | [2784-check-if-array-is-good](https://github.com/Dharmajihamsini/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dharmajihamsini/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharmajihamsini/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharmajihamsini/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmajihamsini/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@ leetcode
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharmajihamsini/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharmajihamsini/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
