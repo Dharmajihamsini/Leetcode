@@ -28,4 +28,4 @@ class Solution:
                     maxr[left + 1][right], total + f[left][right]
                 )
 
-        return f[0][n - 1]
+        return f[0][n - 1] 
