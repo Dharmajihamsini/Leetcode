@@ -15,6 +15,7 @@ leetcode
 | [1306-jump-game-iii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Dharmajihamsini/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dharmajihamsini/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dharmajihamsini/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dharmajihamsini/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -64,6 +65,7 @@ leetcode
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Dharmajihamsini/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1340-jump-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1563-stone-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dharmajihamsini/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -143,6 +145,7 @@ leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dharmajihamsini/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dharmajihamsini/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -215,6 +218,7 @@ leetcode
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Dharmajihamsini/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
