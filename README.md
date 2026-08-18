@@ -35,6 +35,7 @@ leetcode
 | [3161-block-placement-queries](https://github.com/Dharmajihamsini/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dharmajihamsini/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Dharmajihamsini/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ leetcode
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharmajihamsini/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharmajihamsini/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmajihamsini/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Dharmajihamsini/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
