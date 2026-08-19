@@ -15,6 +15,7 @@ leetcode
 | [1306-jump-game-iii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Dharmajihamsini/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Dharmajihamsini/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/Dharmajihamsini/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dharmajihamsini/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dharmajihamsini/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -41,6 +42,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/Dharmajihamsini/Leetcode/tree/main/0135-candy/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Dharmajihamsini/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dharmajihamsini/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dharmajihamsini/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dharmajihamsini/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -82,6 +84,7 @@ leetcode
 | [0001-two-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Dharmajihamsini/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1345-jump-game-iv](https://github.com/Dharmajihamsini/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Dharmajihamsini/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Dharmajihamsini/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Dharmajihamsini/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Dharmajihamsini/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -194,6 +197,7 @@ leetcode
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Dharmajihamsini/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dharmajihamsini/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
