@@ -37,6 +37,7 @@ leetcode
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dharmajihamsini/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dharmajihamsini/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dharmajihamsini/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ leetcode
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharmajihamsini/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmajihamsini/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dharmajihamsini/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dharmajihamsini/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharmajihamsini/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Dharmajihamsini/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Dharmajihamsini/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dharmajihamsini/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +180,7 @@ leetcode
 | [2573-find-the-string-with-lcp](https://github.com/Dharmajihamsini/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dharmajihamsini/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dharmajihamsini/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dharmajihamsini/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +203,7 @@ leetcode
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Dharmajihamsini/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dharmajihamsini/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dharmajihamsini/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
