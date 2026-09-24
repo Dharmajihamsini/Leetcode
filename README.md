@@ -38,6 +38,7 @@ leetcode
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dharmajihamsini/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dharmajihamsini/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharmajihamsini/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dharmajihamsini/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dharmajihamsini/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
@@ -161,6 +162,7 @@ leetcode
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dharmajihamsini/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2029-stone-game-ix](https://github.com/Dharmajihamsini/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dharmajihamsini/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharmajihamsini/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
